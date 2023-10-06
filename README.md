@@ -2,6 +2,8 @@
 
 Made in FL Studio v20.9.2 | Win
 
+https://www.youtube.com/watch?v=nh5lRUq3nA4
+
 **You'll need the BRSO Articulate plugin:**
 `http://www.syntheticorchestra.com/tools/articulate/`
 
